@@ -1,10 +1,10 @@
 ## Hi👋 I'm Sebanur Dark
 
 
-
+- 🔭I am currently learning Front-End
 - 🌱 I’m currently studying computer programming and I am still improving myself.
 - 🤔 I love learning new things about software
-- 💬 Ask me about React JS, Javascript
+- 💬 Ask me about HTML5 and CSS3
 - 📫 How to reach me: darksebanur9999@gmail.com
   
 
